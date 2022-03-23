@@ -64,4 +64,11 @@ namespace bb
         }
 
     }
+    class bb
+    {
+        public string Swim()
+        {
+            
+        }
+    }
 }
